@@ -1,5 +1,0 @@
-{
-  "_comment": "jira-fast-track 默认配置。敏感信息（JIRA_USER/JIRA_PASS）请通过 ~/.gerrit_env 设置。",
-  "_comment2": "优先级: 环境变量 > ~/.gerrit_env > config.json。",
-  "JIRA_URL": "https://jira.tclking.com"
-}
