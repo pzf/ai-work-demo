@@ -1,0 +1,38 @@
+{
+  "parent_page_id": "650525970",
+  "parent_page_title": "112 - 周报（2026）",
+  "page_title_template": "框架开发二组【 {year}W{week}】",
+  "description": "自动定位最新周报 → 复制并创建新周报 → 清空本周进展 → 填充 Jira 数据 → 分析待推进事项(含项目需求开发) → 邮件+T信通知",
+  "email": {
+    "to": ["zhanfengpeng@tcl.com","zihang.gao@tcl.com","siyu.zhang@tcl.com","chuntian.ben@tcl.com","yihuachen@tcl.com","yi-chen@tcl.com","hailongwang@tcl.com","forong.li@tcl.com","zhongwen.nong@tcl.com","lipingguo@tcl.com","fapan.tao@tcl.com","ex_jiawei.liu@tcl.com"],
+    "is_html": true
+  },
+  "tlink": {
+    "to": ["zhanfengpeng","zihang.gao","siyu.zhang","chuntian.ben","yihuachen","yi-chen","hailongwang","forong.li","zhongwen.nong","lipingguo","fapan.tao","ex_jiawei.liu"],
+    "enabled": true
+  },
+  "analysis_exclude_sections": ["已完成（Defect/FR 完成情况）", "进行中（项目问题分布情况）"],
+  "section_owner_mapping": {
+    "一.NPI 项目交付": "zhanfengpeng",
+    "二.XTS IR 测试管理": "forong.li",
+    "三.AI 建设专项": "siyu.zhang",
+    "四.部门OKR以及组内重点承接事项": "zhanfengpeng",
+    "五.复盘 & 培训 & 专利 & 洞察": "zhanfengpeng",
+    "六.长期跟进项": "zhanfengpeng",
+    "七.其他议题": "zhanfengpeng"
+  },
+  "owner_name_mapping": {
+    "高梓航": "zihang.gao",
+    "张思宇": "siyu.zhang",
+    "贲春田": "chuntian.ben",
+    "陈艺华": "yihuachen",
+    "陈益": "yi-chen",
+    "王海龙": "hailongwang",
+    "彭展峰": "zhanfengpeng",
+    "刘嘉伟": "ex_jiawei.liu",
+    "李佛榕": "forong.li",
+    "农忠文": "zhongwen.nong",
+    "郭利平": "lipingguo",
+    "陶发盼": "fapan.tao"
+  }
+}

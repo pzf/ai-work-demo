@@ -1,0 +1,294 @@
+{
+  "week_start": "2026-08-17",
+  "week_end": "2026-08-24",
+  "team_name": "MyTeam",
+  "jira_url": "https://jira.tcl.com",
+  "sections": {
+    "resolved_defects": {
+      "filter_id": 37711,
+      "last_week_filter_id": 106628,
+      "this_week": {
+        "total": 12,
+        "by_person": {
+          "zhanfengpeng": 1,
+          "zihang.gao": 6,
+          "siyu.zhang": 3,
+          "chuntian.ben": 1,
+          "hailongwang": 1
+        },
+        "by_project": {
+          "SWGTMO": 2,
+          "MONETVZW": 2,
+          "MNTGL": 2,
+          "HERMESVISION": 2,
+          "HERMES": 2,
+          "AIGC": 2
+        }
+      },
+      "matrix": {
+        "zhanfengpeng": {
+          "SWGTMO": 1
+        },
+        "zihang.gao": {
+          "SWGTMO": 1,
+          "MNTGL": 1,
+          "HERMESVISION": 1,
+          "HERMES": 1,
+          "AIGC": 2
+        },
+        "siyu.zhang": {
+          "MONETVZW": 1,
+          "HERMESVISION": 1,
+          "HERMES": 1
+        },
+        "chuntian.ben": {
+          "MONETVZW": 1
+        },
+        "hailongwang": {
+          "MNTGL": 1
+        }
+      },
+      "matrix_col_type": "project",
+      "projects": {
+        "SWGTMO": 2,
+        "MONETVZW": 2,
+        "MNTGL": 2,
+        "HERMESVISION": 2,
+        "HERMES": 2,
+        "AIGC": 2
+      },
+      "last_week": {
+        "total": 6
+      }
+    },
+    "fr_closed": {
+      "filter_id": 38267,
+      "last_week_filter_id": 106629,
+      "this_week": {
+        "total": 161,
+        "by_person": {
+          "ex_jiawei.liu": 9,
+          "forong.li": 33,
+          "yihuachen": 1,
+          "hailongwang": 4,
+          "chuntian.ben": 88,
+          "zhanfengpeng": 21,
+          "zihang.gao": 2,
+          "yi-chen": 3
+        },
+        "by_project": {
+          "SOC17TAB": 1,
+          "SOC17MT6878GEN": 3,
+          "SOC17EXTTAB": 2,
+          "SOC17EXTGEN": 29,
+          "SOC176835NA": 1,
+          "SOC176835GEN": 91,
+          "SELENEVZW16UP": 1,
+          "K80ANAOM": 1,
+          "K335GVZW16UP": 1,
+          "K335GTF16UP": 2,
+          "K325GTMO16UP": 23,
+          "K1MINI": 1,
+          "FLORAOS15": 2,
+          "ATHENAWF": 1,
+          "ATHENA": 1,
+          "A1MAXNP": 1
+        }
+      },
+      "matrix": {
+        "ex_jiawei.liu": {
+          "SOC17TAB": 1,
+          "SOC17EXTTAB": 2,
+          "SOC17EXTGEN": 1,
+          "SELENEVZW16UP": 1,
+          "K335GTF16UP": 1,
+          "FLORAOS15": 2,
+          "ATHENAWF": 1
+        },
+        "forong.li": {
+          "SOC17MT6878GEN": 3,
+          "SOC17EXTGEN": 27,
+          "K80ANAOM": 1,
+          "K1MINI": 1,
+          "A1MAXNP": 1
+        },
+        "yihuachen": {
+          "SOC17EXTGEN": 1
+        },
+        "hailongwang": {
+          "SOC176835NA": 1,
+          "SOC176835GEN": 3
+        },
+        "chuntian.ben": {
+          "SOC176835GEN": 88
+        },
+        "zhanfengpeng": {
+          "K335GVZW16UP": 1,
+          "K325GTMO16UP": 19,
+          "ATHENA": 1
+        },
+        "zihang.gao": {
+          "K335GTF16UP": 1,
+          "K325GTMO16UP": 1
+        },
+        "yi-chen": {
+          "K325GTMO16UP": 3
+        }
+      },
+      "matrix_col_type": "project",
+      "projects": {
+        "SOC17TAB": 1,
+        "SOC17MT6878GEN": 3,
+        "SOC17EXTTAB": 2,
+        "SOC17EXTGEN": 29,
+        "SOC176835NA": 1,
+        "SOC176835GEN": 91,
+        "SELENEVZW16UP": 1,
+        "K80ANAOM": 1,
+        "K335GVZW16UP": 1,
+        "K335GTF16UP": 2,
+        "K325GTMO16UP": 23,
+        "K1MINI": 1,
+        "FLORAOS15": 2,
+        "ATHENAWF": 1,
+        "ATHENA": 1,
+        "A1MAXNP": 1
+      },
+      "last_week": {
+        "total": 62
+      }
+    },
+    "framework_analyzed": {
+      "filter_id": 106293,
+      "this_week": {
+        "total": 43,
+        "by_person": {
+          "zihang.gao": 12,
+          "yihuachen": 12,
+          "siyu.zhang": 8,
+          "chuntian.ben": 5,
+          "hailongwang": 4,
+          "ex_jiawei.liu": 1,
+          "zhanfengpeng": 1
+        },
+        "by_project": {
+          "VENUSNAOMOSUP": 1,
+          "TLINK2026": 1,
+          "SWGTMO": 1,
+          "SOC17TAB": 7,
+          "SOC17MT6878NA": 7,
+          "SOC17MT6878GL": 2,
+          "QDH": 3,
+          "MONETVZW": 2,
+          "MNTGL": 1,
+          "HERMESVISION": 1,
+          "HERMES": 4,
+          "BERTMO": 2,
+          "AVTGLNP": 2,
+          "AVTGL": 2,
+          "ATHENAWF": 4,
+          "AIGC": 2,
+          "ADAM": 1
+        }
+      },
+      "last_week": {
+        "total": 78,
+        "by_person": {
+          "zihang.gao": 10,
+          "yihuachen": 16,
+          "siyu.zhang": 30,
+          "chuntian.ben": 5,
+          "hailongwang": 15,
+          "ex_jiawei.liu": 2,
+          "zhanfengpeng": 0
+        }
+      },
+      "matrix": {},
+      "projects": {
+        "VENUSNAOMOSUP": 1,
+        "TLINK2026": 1,
+        "SWGTMO": 1,
+        "SOC17TAB": 7,
+        "SOC17MT6878NA": 7,
+        "SOC17MT6878GL": 2,
+        "QDH": 3,
+        "MONETVZW": 2,
+        "MNTGL": 1,
+        "HERMESVISION": 1,
+        "HERMES": 4,
+        "BERTMO": 2,
+        "AVTGLNP": 2,
+        "AVTGL": 2,
+        "ATHENAWF": 4,
+        "AIGC": 2,
+        "ADAM": 1
+      }
+    },
+    "xts_analyzed": {
+      "filter_id": 106624,
+      "this_week": {
+        "total": 43,
+        "by_person": {
+          "yi-chen": 23,
+          "forong.li": 13,
+          "zhongwen.nong": 7
+        },
+        "by_project": {
+          "VENUSNAOMOSUP": 3,
+          "VENUSNAOM": 2,
+          "VENUSGLOSUP": 1,
+          "SOC17TAB": 4,
+          "SOC17MT6878NA": 6,
+          "SOC17MT6878GL": 4,
+          "SCPT": 1,
+          "MNTGL": 1,
+          "MINERVAOS15": 1,
+          "MDOSUP": 1,
+          "K335GVZW16UP": 1,
+          "HERAGLOSUP": 1,
+          "DVW": 2,
+          "DFGLUP": 1,
+          "BERDISH": 1,
+          "BAMB": 1,
+          "AVTGLNP": 3,
+          "AVTGL": 3,
+          "ATHENA": 1,
+          "ARESOS16": 1,
+          "ANTOSUP": 4
+        }
+      },
+      "last_week": {
+        "total": 85,
+        "by_person": {
+          "yi-chen": 18,
+          "forong.li": 49,
+          "zhongwen.nong": 18
+        }
+      },
+      "matrix": {},
+      "projects": {
+        "VENUSNAOMOSUP": 3,
+        "VENUSNAOM": 2,
+        "VENUSGLOSUP": 1,
+        "SOC17TAB": 4,
+        "SOC17MT6878NA": 6,
+        "SOC17MT6878GL": 4,
+        "SCPT": 1,
+        "MNTGL": 1,
+        "MINERVAOS15": 1,
+        "MDOSUP": 1,
+        "K335GVZW16UP": 1,
+        "HERAGLOSUP": 1,
+        "DVW": 2,
+        "DFGLUP": 1,
+        "BERDISH": 1,
+        "BAMB": 1,
+        "AVTGLNP": 3,
+        "AVTGL": 3,
+        "ATHENA": 1,
+        "ARESOS16": 1,
+        "ANTOSUP": 4
+      }
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "week_start": "2026-08-20",
+  "week_end": "2026-08-27",
+  "team_name": "MyTeam",
+  "jira_url": "https://jira.tcl.com",
+  "sections": {
+    "resolved_defects": {
+      "filter_id": 37711,
+      "last_week_filter_id": 106628,
+      "this_week": {
+        "total": 13,
+        "by_person": {
+          "yihuachen": 3,
+          "ex_jiawei.liu": 4,
+          "fapan.tao": 4,
+          "chuntian.ben": 1,
+          "zihang.gao": 1
+        },
+        "by_project": {
+          "VENUSNAOMOSUP": 1,
+          "VENUSNAOM": 4,
+          "VENUSGLOSUP": 1,
+          "TCTSYSUI": 1,
+          "MONETVZW": 1,
+          "HERMESVISION": 1,
+          "HERMES": 1,
+          "FRIDA": 1,
+          "DIANADTOSUP": 1,
+          "AIGC": 1
+        }
+      },
+      "matrix": {
+        "yihuachen": {
+          "VENUSNAOMOSUP": 1,
+          "TCTSYSUI": 1,
+          "HERMES": 1
+        },
+        "ex_jiawei.liu": {
+          "VENUSNAOM": 4
+        },
+        "fapan.tao": {
+          "VENUSGLOSUP": 1,
+          "HERMESVISION": 1,
+          "FRIDA": 1,
+          "DIANADTOSUP": 1
+        },
+        "chuntian.ben": {
+          "MONETVZW": 1
+        },
+        "zihang.gao": {
+          "AIGC": 1
+        }
+      },
+      "matrix_col_type": "project",
+      "projects": {
+        "VENUSNAOMOSUP": 1,
+        "VENUSNAOM": 4,
+        "VENUSGLOSUP": 1,
+        "TCTSYSUI": 1,
+        "MONETVZW": 1,
+        "HERMESVISION": 1,
+        "HERMES": 1,
+        "FRIDA": 1,
+        "DIANADTOSUP": 1,
+        "AIGC": 1
+      },
+      "last_week": {
+        "total": 20
+      }
+    },
+    "fr_closed": {
+      "filter_id": 38267,
+      "last_week_filter_id": 106629,
+      "this_week": {
+        "total": 115,
+        "by_person": {
+          "lipingguo": 24,
+          "zhanfengpeng": 37,
+          "yi-chen": 20,
+          "forong.li": 23,
+          "siyu.zhang": 1,
+          "ex_jiawei.liu": 6,
+          "fapan.tao": 2,
+          "zihang.gao": 2
+        },
+        "by_project": {
+          "SOC17EXTGEN": 2,
+          "SOC176835NA": 2,
+          "SOC176835GL": 11,
+          "SOC176835GEN": 36,
+          "SELENEVZW16UP": 9,
+          "MINERVAOS15": 3,
+          "K80GL": 21,
+          "K80ANAOM": 4,
+          "K335GVZW16UP": 3,
+          "K335GTF16UP": 2,
+          "K325GTMO16UP": 3,
+          "K1MINI": 7,
+          "GOAN": 1,
+          "FLORAOS15": 2,
+          "DAHLIAOD": 3,
+          "ATHENA": 1,
+          "A1MAXNP": 5
+        }
+      },
+      "matrix": {
+        "lipingguo": {
+          "SOC17EXTGEN": 2,
+          "SOC176835NA": 2,
+          "SOC176835GL": 5,
+          "SOC176835GEN": 1,
+          "SELENEVZW16UP": 2,
+          "K80GL": 8,
+          "K325GTMO16UP": 1,
+          "K1MINI": 3
+        },
+        "zhanfengpeng": {
+          "SOC176835GL": 2,
+          "SOC176835GEN": 22,
+          "SELENEVZW16UP": 6,
+          "K80GL": 2,
+          "K335GVZW16UP": 1,
+          "DAHLIAOD": 3,
+          "ATHENA": 1
+        },
+        "yi-chen": {
+          "SOC176835GL": 3,
+          "SOC176835GEN": 12,
+          "K80GL": 4,
+          "K335GVZW16UP": 1
+        },
+        "forong.li": {
+          "SOC176835GL": 1,
+          "SELENEVZW16UP": 1,
+          "K80GL": 7,
+          "K80ANAOM": 4,
+          "K1MINI": 4,
+          "GOAN": 1,
+          "A1MAXNP": 5
+        },
+        "siyu.zhang": {
+          "SOC176835GEN": 1
+        },
+        "ex_jiawei.liu": {
+          "MINERVAOS15": 3,
+          "K335GTF16UP": 1,
+          "FLORAOS15": 2
+        },
+        "fapan.tao": {
+          "K335GVZW16UP": 1,
+          "K325GTMO16UP": 1
+        },
+        "zihang.gao": {
+          "K335GTF16UP": 1,
+          "K325GTMO16UP": 1
+        }
+      },
+      "matrix_col_type": "project",
+      "projects": {
+        "SOC17EXTGEN": 2,
+        "SOC176835NA": 2,
+        "SOC176835GL": 11,
+        "SOC176835GEN": 36,
+        "SELENEVZW16UP": 9,
+        "MINERVAOS15": 3,
+        "K80GL": 21,
+        "K80ANAOM": 4,
+        "K335GVZW16UP": 3,
+        "K335GTF16UP": 2,
+        "K325GTMO16UP": 3,
+        "K1MINI": 7,
+        "GOAN": 1,
+        "FLORAOS15": 2,
+        "DAHLIAOD": 3,
+        "ATHENA": 1,
+        "A1MAXNP": 5
+      },
+      "last_week": {
+        "total": 287
+      }
+    },
+    "framework_analyzed": {
+      "filter_id": 106293,
+      "this_week": {
+        "total": 64,
+        "by_person": {
+          "zihang.gao": 3,
+          "yihuachen": 10,
+          "siyu.zhang": 10,
+          "chuntian.ben": 5,
+          "hailongwang": 1,
+          "ex_jiawei.liu": 7,
+          "zhanfengpeng": 4,
+          "lipingguo": 9,
+          "fapan.tao": 18
+        },
+        "by_project": {
+          "VENUSNAOMOSUP": 1,
+          "VENUSNAOM": 4,
+          "VENUSGLOSUP": 1,
+          "TLINK2026": 1,
+          "TCTSYSUI": 1,
+          "SWNAOM": 1,
+          "SOC17MT6878NA": 11,
+          "SOC17MT6878GL": 7,
+          "SCREENSAVER": 1,
+          "QDH": 8,
+          "MONETVZW": 1,
+          "MNTGL": 2,
+          "MINERVAOS15": 1,
+          "LUNAS": 1,
+          "LUGHGLOSUP": 1,
+          "HERMESVISION": 3,
+          "HERMES": 7,
+          "FRIDA": 3,
+          "BERTMO": 2,
+          "AVTGLNP": 1,
+          "AVTGL": 3,
+          "ATHENA": 1,
+          "AIGC": 1,
+          "ADAM": 1
+        }
+      },
+      "last_week": {
+        "total": 92,
+        "by_person": {
+          "zihang.gao": 12,
+          "yihuachen": 11,
+          "siyu.zhang": 9,
+          "chuntian.ben": 7,
+          "hailongwang": 13,
+          "ex_jiawei.liu": 1,
+          "zhanfengpeng": 0,
+          "lipingguo": 17,
+          "fapan.tao": 22
+        }
+      },
+      "matrix": {},
+      "projects": {
+        "VENUSNAOMOSUP": 1,
+        "VENUSNAOM": 4,
+        "VENUSGLOSUP": 1,
+        "TLINK2026": 1,
+        "TCTSYSUI": 1,
+        "SWNAOM": 1,
+        "SOC17MT6878NA": 11,
+        "SOC17MT6878GL": 7,
+        "SCREENSAVER": 1,
+        "QDH": 8,
+        "MONETVZW": 1,
+        "MNTGL": 2,
+        "MINERVAOS15": 1,
+        "LUNAS": 1,
+        "LUGHGLOSUP": 1,
+        "HERMESVISION": 3,
+        "HERMES": 7,
+        "FRIDA": 3,
+        "BERTMO": 2,
+        "AVTGLNP": 1,
+        "AVTGL": 3,
+        "ATHENA": 1,
+        "AIGC": 1,
+        "ADAM": 1
+      }
+    },
+    "xts_analyzed": {
+      "filter_id": 106624,
+      "this_week": {
+        "total": 87,
+        "by_person": {
+          "yi-chen": 29,
+          "forong.li": 47,
+          "zhongwen.nong": 12
+        },
+        "by_project": {
+          "VINCAOSUPGRADE": 1,
+          "VENUSNAOMOSUP": 1,
+          "VENUSNAOM": 1,
+          "VENUSGLOSUP": 1,
+          "SOC17TAB": 13,
+          "SOC17MT6878NA": 21,
+          "SOC17MT6878GL": 27,
+          "MNTGL": 1,
+          "K335GVZW16UP": 2,
+          "FFYOSUP": 1,
+          "DVW": 2,
+          "BERVZW": 1,
+          "BERTMO": 1,
+          "BERDISH": 1,
+          "BELLONAGLOSUP": 2,
+          "AVTGLNP": 1,
+          "AVTGL": 5,
+          "ATHENA": 1,
+          "ARESOS16": 1,
+          "ANTOSUP": 3
+        }
+      },
+      "last_week": {
+        "total": 47,
+        "by_person": {
+          "yi-chen": 19,
+          "forong.li": 25,
+          "zhongwen.nong": 3
+        }
+      },
+      "matrix": {},
+      "projects": {
+        "VINCAOSUPGRADE": 1,
+        "VENUSNAOMOSUP": 1,
+        "VENUSNAOM": 1,
+        "VENUSGLOSUP": 1,
+        "SOC17TAB": 13,
+        "SOC17MT6878NA": 21,
+        "SOC17MT6878GL": 27,
+        "MNTGL": 1,
+        "K335GVZW16UP": 2,
+        "FFYOSUP": 1,
+        "DVW": 2,
+        "BERVZW": 1,
+        "BERTMO": 1,
+        "BERDISH": 1,
+        "BELLONAGLOSUP": 2,
+        "AVTGLNP": 1,
+        "AVTGL": 5,
+        "ATHENA": 1,
+        "ARESOS16": 1,
+        "ANTOSUP": 3
+      }
+    }
+  }
+}

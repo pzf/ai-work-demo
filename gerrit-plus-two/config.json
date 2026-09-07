@@ -1,0 +1,11 @@
+{
+  "_comment": "gerrit-plus-two 默认配置。敏感信息请通过 ~/.gerrit_env 设置。",
+  "_comment2": "优先级: 环境变量 > ~/.gerrit_env > config.json。",
+  "GERRIT_URL": "http://sz.gerrit.tclcom.com:8080",
+  "GERRIT_SITES": [
+    "http://sz.gerrit.tclcom.com:8080",
+    "http://hz.gerrit.tclcom.com:8081"
+  ],
+  "GERRIT_SE_NAME": "ZHANFENGPENG",
+  "GERRIT_SE_MODULE": "FRAMEWORK"
+}

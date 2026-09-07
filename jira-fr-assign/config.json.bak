@@ -1,0 +1,1110 @@
+{
+  "title_rules": [
+    {
+      "owner": "hengchang.zhao",
+      "patterns": [
+        "GMS Express+ Compliance Checklist"
+      ]
+    },
+    {
+      "owner": "chunxiao.wu",
+      "patterns": [
+        "Google Client-ID Values"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Google Certification Test"
+      ]
+    },
+    {
+      "owner": "zejia.ye",
+      "patterns": [
+        "QSB Widget Bottom"
+      ]
+    },
+    {
+      "owner": "yaokun",
+      "patterns": [
+        "TCL AI",
+        "AI字幕"
+      ]
+    },
+    {
+      "owner": "hengchang.zhao",
+      "patterns": [
+        "GMSE+ feature"
+      ]
+    },
+    {
+      "owner": "hongtailei",
+      "patterns": [
+        "Contacts Provider"
+      ]
+    },
+    {
+      "owner": "liangchen",
+      "patterns": [
+        "Quick Share"
+      ]
+    },
+    {
+      "owner": "zejia.ye",
+      "patterns": [
+        "Instant Games UX in the launcher"
+      ]
+    },
+    {
+      "owner": "liangchen",
+      "patterns": [
+        "Bluetooth"
+      ]
+    },
+    {
+      "owner": "zihang.gao",
+      "patterns": [
+        "UXP声明选择判断属性值添加"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Factory Reset Preparation"
+      ]
+    },
+    {
+      "owner": "jianqing.zeng",
+      "patterns": [
+        "Built-in versus JCA camera image parity"
+      ]
+    },
+    {
+      "owner": "hongtailei",
+      "patterns": [
+        "Telephony",
+        "System Contacts Picker"
+      ]
+    },
+    {
+      "owner": "guangyao.xu",
+      "patterns": [
+        "Cross-OS device-to-device migration"
+      ]
+    },
+    {
+      "owner": "liangchen",
+      "patterns": [
+        "Digital Car Key (DCK)"
+      ]
+    },
+    {
+      "owner": "mlei",
+      "patterns": [
+        "6769/8786平台在护眼等模式下播放安全视频黑屏"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "视频通话时显示实时字幕（Live Caption）功能检查"
+      ]
+    },
+    {
+      "owner": "ruirong.cui",
+      "patterns": [
+        "DT Google RSA Requirements , 需要满足需求，不然Google测试会报问题"
+      ]
+    },
+    {
+      "owner": "zejia.ye",
+      "patterns": [
+        "[GMS requirements][RSA] claro RSA Gemini needs to be placed in DHS"
+      ]
+    },
+    {
+      "owner": "ruirong.cui",
+      "patterns": [
+        "[Japan][US][Android GMS Announcements] Important guidance on xMADA placement flags",
+        "[US][MADA][GMS] United States GMS Requirements, builds & Placement Requirements",
+        "[Japan][MADA][GMS]Japan GMS Requirements, Japan builds & Japan Placement Requirements"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Framework Allowlist Provider"
+      ]
+    },
+    {
+      "owner": "yihuachen",
+      "patterns": [
+        "Android Biometrics policy"
+      ]
+    },
+    {
+      "owner": "kang32.zhang",
+      "patterns": [
+        "Dedicated device data privacy requirements"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Google Play services in APEX"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Introduction & 1.1. Definitions"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Android Developer Verification"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Battery Health Settings"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Package Installer app"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Private Compute Services",
+        "EEA builds",
+        "Russia, Belarus, and Kazakhstan builds",
+        "Turkey builds",
+        "Japan builds",
+        "[仅适用EDLA ][EMADA/MADA不适用] EDLA requirements"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Launch approval windows",
+        "Google Wallet",
+        "[Japan][Choice Screen] Advance Notice of the October GMS Release for the Japan Choice Screen Requirements",
+        "PDP"
+      ]
+    },
+    {
+      "owner": "qingsong.hu.cd",
+      "patterns": [
+        "Android Baseline Performance",
+        "Scudo memory allocator"
+      ]
+    },
+    {
+      "owner": "kang32.zhang",
+      "patterns": [
+        "Android Enterprise data privacy policy & 11.10.1. Work profile and personal profile data privacy requirements"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Custom device policy features",
+        "Shared UID Requirements"
+      ]
+    },
+    {
+      "owner": "yi-chen",
+      "patterns": [
+        "SW Platform Requirements"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "SW Enablers"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Google Messages Implementation for America Movil"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Privacy dashboard",
+        "Security and privacy settings",
+        "Data sharing updates for location settings"
+      ]
+    },
+    {
+      "owner": "qingsong.hu.cd",
+      "patterns": [
+        "Android Performance"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Geo-availability for Android Go[Android Go]"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Go Core services and apps"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Work Policy Info settings"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Custom system permissions, UIDs, and APIs policy"
+      ]
+    },
+    {
+      "owner": "xuanye.zeng",
+      "patterns": [
+        "MBA Policies"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "India builds",
+        "Android platform fixes",
+        "Security Patch",
+        "Resume on reboot"
+      ]
+    },
+    {
+      "owner": "hailongwang",
+      "patterns": [
+        "Preinstalled System Apps Default State"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Vulkan dEQP test conformance"
+      ]
+    },
+    {
+      "owner": "yihuachen",
+      "patterns": [
+        "Biometrics"
+      ]
+    },
+    {
+      "owner": "mlei",
+      "patterns": [
+        "OpenGL ES (ANGLE)"
+      ]
+    },
+    {
+      "owner": "zhonghao.song",
+      "patterns": [
+        "Google Photos"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Reference AOSP image requirements"
+      ]
+    },
+    {
+      "owner": "liangchen",
+      "patterns": [
+        "Companion Device Pairing Support"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Platform Security"
+      ]
+    },
+    {
+      "owner": "zejia.ye",
+      "patterns": [
+        "Default Home Screen",
+        "[MADA]Device Launcher"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Set A1 brand naming in Google environment"
+      ]
+    },
+    {
+      "owner": "xuanye.zeng",
+      "patterns": [
+        "Some consumer apps need to be removed"
+      ]
+    },
+    {
+      "owner": "chunxiao.wu",
+      "patterns": [
+        "[TIM][ITALY] Google ID",
+        "[WIND] Google's Client ID (Based on Android Optimized or Android Premium classification)",
+        "[Bouygues]4.3. GOOGLE CLIENT ID",
+        "[OBGB] o2 Google Client ID",
+        "Client ID",
+        "Google Client IDs",
+        "Client ID -- Customization Guide",
+        "ClientID Values",
+        "Google client IDs"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Security settings",
+        "Safety and Emergency settings"
+      ]
+    },
+    {
+      "owner": "yi-chen",
+      "patterns": [
+        "Mainline Updates",
+        "Platform requirements",
+        "Multiple trains support"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Projects not Covered by MADA",
+        "[MADA]Change to Non-compliance Device"
+      ]
+    },
+    {
+      "owner": "zhiqiang.kuang",
+      "patterns": [
+        "[Google photo] For projects that use Photos as the default Gallery"
+      ]
+    },
+    {
+      "owner": "luji.fan",
+      "patterns": [
+        "Circle to Search (CtS)",
+        "[MADA]Default Assist App",
+        "Google Assistant"
+      ]
+    },
+    {
+      "owner": "zejia.ye",
+      "patterns": [
+        "[AQMX,TGMX] PAI must be disable"
+      ]
+    },
+    {
+      "owner": "chunyang.zhou",
+      "patterns": [
+        "Kernel BUILD toolchain requirements"
+      ]
+    },
+    {
+      "owner": "hanjun.yu",
+      "patterns": [
+        "Code to Open GOTA"
+      ]
+    },
+    {
+      "owner": "luji.fan",
+      "patterns": [
+        "[Boost-Dish][Google RSA]Dish need to support RSA3 requirement"
+      ]
+    },
+    {
+      "owner": "ex_jiawei.liu",
+      "patterns": [
+        "Upgrade Preparedness: Configurations",
+        "Device management role holder"
+      ]
+    },
+    {
+      "owner": "luji.fan",
+      "patterns": [
+        "[Telstra定制需求]APP inclusion- Customisation requirements--Google Keyboard"
+      ]
+    },
+    {
+      "owner": "hongfen.chen",
+      "patterns": [
+        "[MTN] [South Africa] NW Bearers_General"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "[MTN][South Africa]Android Placement Requirements"
+      ]
+    },
+    {
+      "owner": "chunxiao.wu",
+      "patterns": [
+        "DESCRIPTION"
+      ]
+    },
+    {
+      "owner": "zejia.ye",
+      "patterns": [
+        "Google Discover"
+      ]
+    },
+    {
+      "owner": "luji.fan",
+      "patterns": [
+        "Google Search Widget"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Google Android Messages App"
+      ]
+    },
+    {
+      "owner": "luji.fan",
+      "patterns": [
+        "Google Keyboard (Gboard)"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Google Home"
+      ]
+    },
+    {
+      "owner": "zexin.yang.sz",
+      "patterns": [
+        "[GMS]GMS Package"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "[ZT]Zero-Touch Enrollment"
+      ]
+    },
+    {
+      "owner": "luji.fan",
+      "patterns": [
+        "Google Play Games",
+        "Google Photos",
+        "Google Maps",
+        "Google Drive",
+        "Google Calendar",
+        "Google Contacts",
+        "Google Duo",
+        "[MADA]Default Browser App"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "[EEA][MADA]Google Search and Chrome Placement and EEA Integration Guide",
+        "[MADA]Google Account"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "The Autosync data setting must be on by default"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "[MADA]No Connectivity Notice"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "[JB 4.1+] Developer Options Menu must be hidden by default"
+      ]
+    },
+    {
+      "owner": "hongtailei",
+      "patterns": [
+        "Audio Framework - reminder to implement audio framework changes"
+      ]
+    },
+    {
+      "owner": "ruirong.cui",
+      "patterns": [
+        "[New MADA] New Requirements for Device Boot with Google Trademark or Android Brand Feature"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "[Russia/Belarus/Kazakhstan][MADA][GMS]Russia/Belarus/Kazakhstan GMS Requirements, builds & Placement Requirements"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Google Backup & reset setting MUST NOT be modified"
+      ]
+    },
+    {
+      "owner": "dpwang",
+      "patterns": [
+        "Exposure notification testing for new BLE RSSI calibration"
+      ]
+    },
+    {
+      "owner": "yi-chen",
+      "patterns": [
+        "Google mainline Lab Entry requirements checklist",
+        "Preload requirements",
+        "Module preload requirements",
+        "Module preload requirements for low RAM devices",
+        "Integrity, testing, and upgrading requirements",
+        "Time Zone Data",
+        "Permission Controller and Ext Services",
+        "Mainline UX requirements",
+        "DeviceConfig API"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Regulatory Requirements"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Best Google Experience"
+      ]
+    },
+    {
+      "owner": "ruirong.cui",
+      "patterns": [
+        "xMADA License Types"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Preloading GMS"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Privacy settings",
+        "Google settings",
+        "Google legal settings"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Backup transport configuration"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Backup settings",
+        "Restore system settings"
+      ]
+    },
+    {
+      "owner": "wyang1",
+      "patterns": [
+        "DNS privacy"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "Data storage encryption"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "SMR(Security Maintenance Release)"
+      ]
+    },
+    {
+      "owner": "zhixiong.liu.hz",
+      "patterns": [
+        "Android Go项目的手机菜单不能出现任何‘Android Go’字样",
+        "[Android GO]Data saver should not be turned on by default for Android Go project"
+      ]
+    },
+    {
+      "owner": "luji.fan",
+      "patterns": [
+        "[MADA]Hotwords"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "[CDD]Android Compatibility Definition Document"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "GMS"
+      ]
+    },
+    {
+      "owner": "zejia.ye",
+      "patterns": [
+        "Google Services Placement in Folder"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "[MADA]Google Applications Usage Information"
+      ]
+    },
+    {
+      "owner": "forong.li",
+      "patterns": [
+        "[MADA]Google Mobile Application Distribution Agreement Requirements in Kazakhstan"
+      ]
+    },
+    {
+      "owner": "liangchen",
+      "patterns": [
+        "Google Fast Pair",
+        "Near-Ultrasound capability"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Update owner configuration"
+      ]
+    },
+    {
+      "owner": "ruirong.cui",
+      "patterns": [
+        "Digital Wellbeing and parental controls"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Usage stats event history"
+      ]
+    },
+    {
+      "owner": "liangchen",
+      "patterns": [
+        "Android Auto"
+      ]
+    },
+    {
+      "owner": "zhongwen.nong",
+      "patterns": [
+        "Google Location History"
+      ]
+    },
+    {
+      "owner": "li19.hu",
+      "patterns": [
+        "Chrome and WebView"
+      ]
+    },
+    {
+      "owner": "liangchen",
+      "patterns": [
+        "YouTube requirements"
+      ]
+    },
+    {
+      "owner": "yi-chen",
+      "patterns": [
+        "OS升级模块兼容checklist-Mainline模块版本"
+      ]
+    },
+    {
+      "owner": "jirong.shen",
+      "patterns": [
+        "Location indicator"
+      ]
+    },
+    {
+      "owner": "chuntian.ben",
+      "patterns": [
+        "Location button"
+      ]
+    }
+  ],
+  "module_rules": [
+    {
+      "pattern": "Google XTS",
+      "owner": "forong.li"
+    },
+    {
+      "pattern": "AI",
+      "owner": "yaokun"
+    }
+  ],
+  "clone_source_rules": {
+    "GLEXP": [
+      {
+        "owner": "forong.li",
+        "source_keys": [
+          "GLEXP-5"
+        ]
+      }
+    ],
+    "GOOGLEGMS": [
+      {
+        "owner": "forong.li",
+        "source_keys": [
+          "GOOGLEGMS-125",
+          "GOOGLEGMS-139",
+          "GOOGLEGMS-144",
+          "GOOGLEGMS-176",
+          "GOOGLEGMS-177",
+          "GOOGLEGMS-178",
+          "GOOGLEGMS-179",
+          "GOOGLEGMS-182",
+          "GOOGLEGMS-183",
+          "GOOGLEGMS-184",
+          "GOOGLEGMS-191",
+          "GOOGLEGMS-216",
+          "GOOGLEGMS-220",
+          "GOOGLEGMS-23",
+          "GOOGLEGMS-249",
+          "GOOGLEGMS-274",
+          "GOOGLEGMS-276",
+          "GOOGLEGMS-278"
+        ]
+      },
+      {
+        "owner": "zhongwen.nong",
+        "source_keys": [
+          "GOOGLEGMS-133",
+          "GOOGLEGMS-143",
+          "GOOGLEGMS-171",
+          "GOOGLEGMS-181",
+          "GOOGLEGMS-185",
+          "GOOGLEGMS-277",
+          "GOOGLEGMS-28",
+          "GOOGLEGMS-292",
+          "GOOGLEGMS-304",
+          "GOOGLEGMS-55"
+        ]
+      },
+      {
+        "owner": "hongtailei",
+        "source_keys": [
+          "GOOGLEGMS-259",
+          "GOOGLEGMS-293",
+          "GOOGLEGMS-297"
+        ]
+      },
+      {
+        "owner": "liangchen",
+        "source_keys": [
+          "GOOGLEGMS-198",
+          "GOOGLEGMS-206",
+          "GOOGLEGMS-252",
+          "GOOGLEGMS-299",
+          "GOOGLEGMS-46",
+          "GOOGLEGMS-48",
+          "GOOGLEGMS-52",
+          "GOOGLEGMS-58"
+        ]
+      },
+      {
+        "owner": "zejia.ye",
+        "source_keys": [
+          "GOOGLEGMS-257"
+        ]
+      },
+      {
+        "owner": "zhixiong.liu.hz",
+        "source_keys": [
+          "GOOGLEGMS-120",
+          "GOOGLEGMS-131",
+          "GOOGLEGMS-132",
+          "GOOGLEGMS-137",
+          "GOOGLEGMS-140",
+          "GOOGLEGMS-162",
+          "GOOGLEGMS-261",
+          "GOOGLEGMS-31",
+          "GOOGLEGMS-32",
+          "GOOGLEGMS-34",
+          "GOOGLEGMS-37"
+        ]
+      },
+      {
+        "owner": "jianqing.zeng",
+        "source_keys": [
+          "GOOGLEGMS-260"
+        ]
+      },
+      {
+        "owner": "guangyao.xu",
+        "source_keys": [
+          "GOOGLEGMS-298"
+        ]
+      },
+      {
+        "owner": "yihuachen",
+        "source_keys": [
+          "GOOGLEGMS-172",
+          "GOOGLEGMS-204"
+        ]
+      },
+      {
+        "owner": "kang32.zhang",
+        "source_keys": [
+          "GOOGLEGMS-250",
+          "GOOGLEGMS-302"
+        ]
+      },
+      {
+        "owner": "qingsong.hu.cd",
+        "source_keys": [
+          "GOOGLEGMS-142",
+          "GOOGLEGMS-300",
+          "GOOGLEGMS-301"
+        ]
+      },
+      {
+        "owner": "xuanye.zeng",
+        "source_keys": [
+          "GOOGLEGMS-173"
+        ]
+      },
+      {
+        "owner": "hailongwang",
+        "source_keys": [
+          "GOOGLEGMS-186"
+        ]
+      },
+      {
+        "owner": "mlei",
+        "source_keys": [
+          "GOOGLEGMS-210"
+        ]
+      },
+      {
+        "owner": "zhonghao.song",
+        "source_keys": [
+          "GOOGLEGMS-211"
+        ]
+      },
+      {
+        "owner": "yi-chen",
+        "source_keys": [
+          "GOOGLEGMS-10",
+          "GOOGLEGMS-11",
+          "GOOGLEGMS-12",
+          "GOOGLEGMS-15",
+          "GOOGLEGMS-16",
+          "GOOGLEGMS-20",
+          "GOOGLEGMS-21",
+          "GOOGLEGMS-5",
+          "GOOGLEGMS-6",
+          "GOOGLEGMS-9"
+        ]
+      },
+      {
+        "owner": "luji.fan",
+        "source_keys": [
+          "GOOGLEGMS-54"
+        ]
+      },
+      {
+        "owner": "chunyang.zhou",
+        "source_keys": [
+          "GOOGLEGMS-197"
+        ]
+      },
+      {
+        "owner": "ex_jiawei.liu",
+        "source_keys": [
+          "GOOGLEGMS-72"
+        ]
+      },
+      {
+        "owner": "li19.hu",
+        "source_keys": [
+          "GOOGLEGMS-24",
+          "GOOGLEGMS-27",
+          "GOOGLEGMS-33",
+          "GOOGLEGMS-47",
+          "GOOGLEGMS-51",
+          "GOOGLEGMS-56"
+        ]
+      },
+      {
+        "owner": "ruirong.cui",
+        "source_keys": [
+          "GOOGLEGMS-25",
+          "GOOGLEGMS-50"
+        ]
+      },
+      {
+        "owner": "wyang1",
+        "source_keys": [
+          "GOOGLEGMS-124"
+        ]
+      },
+      {
+        "owner": "jirong.shen",
+        "source_keys": [
+          "GOOGLEGMS-296"
+        ]
+      },
+      {
+        "owner": "chuntian.ben",
+        "source_keys": [
+          "GOOGLEGMS-295"
+        ]
+      }
+    ],
+    "GOOGLEREQ": [
+      {
+        "owner": "forong.li",
+        "source_keys": [
+          "GOOGLEREQ-27",
+          "GOOGLEREQ-30",
+          "GOOGLEREQ-32",
+          "GOOGLEREQ-34",
+          "GOOGLEREQ-35",
+          "GOOGLEREQ-36",
+          "GOOGLEREQ-37",
+          "GOOGLEREQ-45",
+          "GOOGLEREQ-51",
+          "GOOGLEREQ-74",
+          "GOOGLEREQ-77",
+          "GOOGLEREQ-84"
+        ]
+      },
+      {
+        "owner": "hengchang.zhao",
+        "source_keys": [
+          "GOOGLEREQ-71"
+        ]
+      },
+      {
+        "owner": "chunxiao.wu",
+        "source_keys": [
+          "GOOGLEREQ-1"
+        ]
+      },
+      {
+        "owner": "zejia.ye",
+        "source_keys": [
+          "GOOGLEREQ-26",
+          "GOOGLEREQ-49",
+          "GOOGLEREQ-87"
+        ]
+      },
+      {
+        "owner": "ruirong.cui",
+        "source_keys": [
+          "GOOGLEREQ-12",
+          "GOOGLEREQ-85",
+          "GOOGLEREQ-86",
+          "GOOGLEREQ-89"
+        ]
+      },
+      {
+        "owner": "zhongwen.nong",
+        "source_keys": [
+          "GOOGLEREQ-21",
+          "GOOGLEREQ-43",
+          "GOOGLEREQ-83"
+        ]
+      },
+      {
+        "owner": "zhiqiang.kuang",
+        "source_keys": [
+          "GOOGLEREQ-75"
+        ]
+      },
+      {
+        "owner": "luji.fan",
+        "source_keys": [
+          "GOOGLEREQ-10",
+          "GOOGLEREQ-28",
+          "GOOGLEREQ-81"
+        ]
+      },
+      {
+        "owner": "hanjun.yu",
+        "source_keys": [
+          "GOOGLEREQ-58"
+        ]
+      },
+      {
+        "owner": "zexin.yang.sz",
+        "source_keys": [
+          "GOOGLEREQ-20"
+        ]
+      },
+      {
+        "owner": "li19.hu",
+        "source_keys": [
+          "GOOGLEREQ-16",
+          "GOOGLEREQ-47",
+          "GOOGLEREQ-65"
+        ]
+      },
+      {
+        "owner": "zhixiong.liu.hz",
+        "source_keys": [
+          "GOOGLEREQ-2",
+          "GOOGLEREQ-23",
+          "GOOGLEREQ-25",
+          "GOOGLEREQ-3",
+          "GOOGLEREQ-4"
+        ]
+      },
+      {
+        "owner": "hongtailei",
+        "source_keys": [
+          "GOOGLEREQ-46"
+        ]
+      },
+      {
+        "owner": "dpwang",
+        "source_keys": [
+          "GOOGLEREQ-57"
+        ]
+      },
+      {
+        "owner": "yi-chen",
+        "source_keys": [
+          "GOOGLEREQ-69"
+        ]
+      }
+    ]
+  }
+}

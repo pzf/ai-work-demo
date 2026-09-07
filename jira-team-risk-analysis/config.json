@@ -1,0 +1,40 @@
+{
+  "team_name": "MyTeam",
+  "filters": {
+    "pending_issues": {
+      "label": "待解决问题",
+      "description": "团队当前所有待解决的Jira问题单（非Closed/Resolved状态）",
+      "filter_id": 37706
+    },
+    "blocked_issues": {
+      "label": "Block问题",
+      "description": "团队当前被标记为Block状态的问题单",
+      "filter_id": 37707
+    },
+    "pending_fr": {
+      "label": "待解决FR",
+      "description": "团队当前所有待解决的FR需求单",
+      "filter_id": 37708
+    }
+  },
+  "team_members": [
+    "zihang.gao",
+    "yihuachen",
+    "siyu.zhang",
+    "chuntian.ben",
+    "hailongwang",
+    "ex_jiawei.liu",
+    "zhanfengpeng",
+    "yi-chen",
+    "forong.li",
+    "zhongwen.nong",
+    "lipingguo",
+    "fapan.tao"
+  ],
+  "defaults": {
+    "api_delay_seconds": 0.5,
+    "max_issues_per_filter": 200,
+    "output_dir": "./reports"
+  },
+  "jira_url": "https://jira.tcl.com"
+}
